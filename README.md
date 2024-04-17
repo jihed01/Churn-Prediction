@@ -58,7 +58,6 @@ Visual distributions of features such as `AccountAge`, `MonthlyCharges`, and oth
 ## Model Training
 ### Model Selection
 - **Logistic Regression:** Started with a simple model to establish a baseline.
-- **Random Forest Classifier:** To improve prediction accuracy.
 
 ### Hyperparameter Tuning
 - **GridSearchCV:** Used to find the optimal parameters for the Logistic Regression model.
